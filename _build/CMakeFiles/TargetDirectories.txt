@@ -1,0 +1,8 @@
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/CMakeFiles/rebuild_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/CMakeFiles/edit_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP1/CMakeFiles/rebuild_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP1/CMakeFiles/edit_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP1/CMakeFiles/exec.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP2/CMakeFiles/rebuild_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP2/CMakeFiles/edit_cache.dir
+/home/2inf1/julien.debats/Documents/M1s2/CPP/CPP_Exercises/_build/TP2/CMakeFiles/translator.dir
